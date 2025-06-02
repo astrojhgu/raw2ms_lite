@@ -270,7 +270,7 @@ int main (int argc, char **argv)
     }
 
     std::cout<<center_ra_deg<<" "<<center_dec_deg<<std::endl;
-    exit(0);
+    //exit(0);
 
     std::cout<<antenna_tab_name<<std::endl;
     std::cout<<out_prefix<<std::endl;        
